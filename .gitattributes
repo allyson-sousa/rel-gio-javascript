@@ -1,2 +1,2 @@
 * linguist-vendored
-*.javascript linguist-detectable=true
+* .javascript linguist-detectable=true
